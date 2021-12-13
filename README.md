@@ -1,5 +1,5 @@
 # log4j-hashes
-A collection of hashes for all log4j core JAR files
+A collection of hashes for all log4j core JAR files.  Use this repo to determine what version of log4j is present on your system.
 
 Inspired by Mubix (https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes)
 
